@@ -1,0 +1,3 @@
+This is the source code of an old project of mine - Multi Table Helper. The source code is ugly and old school. It will not compile in its current state - please read the website for a full description of its purpose.
+
+While there's probably little use in continuing the project itself, I'm making the code available as there's a number of interesting Win32 API techniques on display. Interaction with native Win32 tree controls, listboxes, etc. Using Desaware SpyWorks to inject .NET code into remote native processes to intercept Win32 window messages, etc.
