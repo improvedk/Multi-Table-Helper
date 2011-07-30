@@ -1,0 +1,14 @@
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\Interop.SpeechLib.dll
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\MTH.csproj.ResolveComReference.cache
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\MTH.About.resources
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\MTH.EditQuadrant.resources
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\MTH.Form1.resources
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\MTH.LoadFrame.resources
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\MTH.MakeLatte.resources
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\MTH.Preferences.resources
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\MTH.Properties.Resources.resources
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\MTH.BorderForm.resources
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\MTH.VoiceTest.resources
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\ResGen.read.1.tlog
+D:\Projects\MTH\MTH V2\MTH\obj\Debug\ResGen.write.1.tlog

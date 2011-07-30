@@ -1,0 +1,4 @@
+D:\Projects\MTH\MTH Core\Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\MTH\MTH Core\Framework\obj\Debug\MTH.BorderForm.resources
+D:\Projects\MTH\MTH Core\Framework\obj\Debug\ResGen.read.1.tlog
+D:\Projects\MTH\MTH Core\Framework\obj\Debug\ResGen.write.1.tlog

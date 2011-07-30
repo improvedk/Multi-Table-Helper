@@ -1,0 +1,1 @@
+D:\Projects\MTH\MTH Core\Plugins\Startup\MTHStartupPlugin\obj\Debug\ResolveAssemblyReference.cache

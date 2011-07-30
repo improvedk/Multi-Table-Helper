@@ -1,0 +1,3 @@
+D:\Projects\MTH\MTH Core\MTH Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\MTH\MTH Core\MTH Core\obj\Debug\ResGen.read.1.tlog
+D:\Projects\MTH\MTH Core\MTH Core\obj\Debug\ResGen.write.1.tlog
