@@ -285,21 +285,21 @@ namespace MTH
 		}
 		
 		/// <summary>
-        	/// Returns the checked status for a specific item
-        	/// </summary>
-        	/// <param name="hwnd"></param>
-        	/// <param name="checked"></param>
-        	/// <returns></returns>
-        	public bool GetItemIsChecked(int itemHwnd)
-        	{
-            	Win32.TVITEM tvItem = new Win32.TVITEM
-            	{
-                	mask = (int)Win32.TVIF.TEXT,
-                	hItem = itemHwnd
-            	};
+        /// Returns the checked status for a specific item
+        /// </summary>
+        /// <param name="hwnd"></param>
+        /// <param name="checked"></param>
+        /// <returns></returns>
+        public bool GetItemIsChecked(int itemHwnd)
+        {
+            Win32.TVITEM tvItem = new Win32.TVITEM
+            {
+                mask = (int)Win32.TVIF.TEXT,
+                hItem = itemHwnd
+            };
 
-            	Win32.SendMessage(handle, (int)Win32.TVM.GETITEM, 0, tvItem);
-            	return (tvItem.state & (int)Win32.TVIF.CHECKED) == (int)Win32.TVIF.CHECKED;
-        	}
-	}
+            Win32.SendMessage(handle, (int)Win32.TVM.GETITEM, 0, tvItem);
+            return (tvItem.state & (int)Win32.TVIF.CHECKED) == (int)Win32.TVIF.CHECKED;
+        }
+    }
 }
