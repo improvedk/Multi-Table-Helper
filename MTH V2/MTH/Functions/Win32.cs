@@ -894,8 +894,9 @@ namespace MTH
 			PARAM			= 4,
 			STATE			= 8,
 			HANDLE			= 10,
-			SELECTEDIMAGE	= 20,
-			CHILDREN		= 40
+			SELECTEDIMAGE	        = 20,
+			CHILDREN		= 40,
+			CHECKED                 = 0X2000
 		}
 
 		public enum LVIS : int
